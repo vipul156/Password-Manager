@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useCallback, lazy, Suspense } from "react";
+import React, { useState, useEffect, useCallback, Suspense } from "react";
 import dynamic from "next/dynamic";
 import { ToastContainer, toast, Bounce } from "react-toastify";
 import { useForm } from "react-hook-form";
