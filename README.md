@@ -10,6 +10,9 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/325d835d-ec11-4dbf-a6e0-ccd892237860" />
+
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
